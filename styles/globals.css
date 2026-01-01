@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #000000;
+  --accent: #2EE6FF;
+  --accent-2: #FF7A18;
+  --accent-3: #8A2BE2;
+}
+
+html, body, #__next {
+  height: 100%;
+  background: var(--bg);
+  color: #e6eef8;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+.card {
+  background: rgba(255,255,255,0.04);
+  backdrop-filter: blur(8px) saturate(120%);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 1rem;
+}
